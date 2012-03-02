@@ -1,0 +1,9 @@
+D:\Project\MVC\MvcMovie\bin\MvcMovie.dll
+D:\Project\MVC\MvcMovie\bin\MvcMovie.pdb
+D:\Project\MVC\MvcMovie\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\MVC\MvcMovie\obj\Debug\MvcMovie.dll
+D:\Project\MVC\MvcMovie\obj\Debug\MvcMovie.pdb
+D:\Project\MVC\MvcMovie\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project\MVC\MvcMovie\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Project\MVC\MvcMovie\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\Project\MVC\MvcMovie\bin\Microsoft.Practices.Unity.dll

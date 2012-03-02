@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@model IEnumerable<MvcMovie.Models.Movie> 
+<h2>Index</h2>
+<a href="/Movies/Create">Create new Movie</a><br/><br/><br/>
+<form method="post" action="/Movies/PostData">
+ @Html.AntiForgeryToken("PostData")
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+        <th></th>
+        <th>
+            Title
+        </th>
+        <th>
+            ReleaseDate
+        </th>
+        <th>
+            Genre
+        </th>
+        <th>
+            Price
+        </th>
+    </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReleaseDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                    
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new {id = item.ID}) |
+                    @Html.ActionLink("Details", "Details", new {id = item.ID}) |
+                    <a class="delete-link" href="Movies/Delete/@item.ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+    <input type="submit" name="sm1" value="submit 1"/>
+    <input type="submit" name="sm2" value="submit 2"/>
+    <div id="delete-dialog" title="Confirmation">
+<p>Are you sure you want to delete this Movie?</p>
+</div>
+}
+</form>

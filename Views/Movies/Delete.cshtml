@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Delete";
+}
+@model MvcMovie.Models.Movie
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+@using (Html.BeginForm()) {
+<fieldset>
+    <legend>Movie</legend>
+    @Html.HiddenFor(model => model.ID)
+    @Html.HiddenFor(model => model.Title)
+    @Html.HiddenFor(model => model.Price)
+    @Html.HiddenFor(model => model.Genre)
+    <div class="display-label">Title</div>
+    <div class="display-field">@Model.Title</div>
+
+    <div class="display-label">ReleaseDate</div>
+    <div class="display-field">@String.Format("{0:g}", Model.ReleaseDate)</div>
+
+    <div class="display-label">Genre</div>
+    <div class="display-field">@Model.Genre</div>
+
+    <div class="display-label">Price</div>
+    <div class="display-field">@String.Format("{0:F}", Model.Price)</div>
+</fieldset>
+    	
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}
+
+
