@@ -1,4 +1,7 @@
-﻿/// <reference path="jquery-1.4.4.js" />
+// =====COPYRIGHT=====
+// Copyright 2007 - 2012 Service Repair Solutions, Inc.
+// =====COPYRIGHT=====
+/// <reference path="jquery-1.4.4.js" />
 
 /*!
 ** Unobtrusive Ajax support library for jQuery

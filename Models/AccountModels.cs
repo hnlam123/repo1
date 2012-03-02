@@ -1,4 +1,7 @@
-﻿using System;
+// =====COPYRIGHT=====
+// Copyright 2007 - 2012 Service Repair Solutions, Inc.
+// =====COPYRIGHT=====
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;

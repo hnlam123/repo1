@@ -1,4 +1,7 @@
-﻿using System.Reflection;
+// =====COPYRIGHT=====
+// Copyright 2007 - 2012 Service Repair Solutions, Inc.
+// =====COPYRIGHT=====
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -8,9 +11,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MvcMovie")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Service Repair Solutions, Inc.")]
 [assembly: AssemblyProduct("MvcMovie")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2012")]
+[assembly: AssemblyCopyright("Copyright 2007 - 2012 Service Repair Solutions, Inc.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

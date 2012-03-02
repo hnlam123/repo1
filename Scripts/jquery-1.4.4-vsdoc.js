@@ -1,3 +1,6 @@
+// =====COPYRIGHT=====
+// Copyright 2007 - 2012 Service Repair Solutions, Inc.
+// =====COPYRIGHT=====
 /*
  * This file has been commented to support Visual Studio Intellisense.
  * You should not use this file at runtime inside the browser--it is only

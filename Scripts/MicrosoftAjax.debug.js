@@ -1,4 +1,7 @@
-﻿// Name:        MicrosoftAjax.debug.js
+// =====COPYRIGHT=====
+// Copyright 2007 - 2012 Service Repair Solutions, Inc.
+// =====COPYRIGHT=====
+// Name:        MicrosoftAjax.debug.js
 // Assembly:    System.Web.Extensions
 // Version:     4.0.0.0
 // FileVersion: 4.0.20526.0
