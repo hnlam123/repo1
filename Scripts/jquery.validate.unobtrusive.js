@@ -1,5 +1,5 @@
 // =====COPYRIGHT=====
-// Copyright 2007 - 2012 Service Repair Solutions, Inc.
+// 4
 // =====COPYRIGHT=====
 /// <reference path="jquery-1.4.4.js" />
 /// <reference path="jquery.validate.js" />

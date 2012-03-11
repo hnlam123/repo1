@@ -1,5 +1,5 @@
 // =====COPYRIGHT=====
-// Copyright 2007 - 2012 Service Repair Solutions, Inc.
+// 4
 // =====COPYRIGHT=====
 /*
 * Note: While Microsoft is not the author of this file, Microsoft is
