@@ -1,5 +1,5 @@
 // =====COPYRIGHT=====
-// aaaaaaaaaaaaaaa
+// aaaaaaaaaaaaaaabbbbbbbbbb
 // =====COPYRIGHT=====
 /// <reference path="jquery-1.4.4.js" />
 
