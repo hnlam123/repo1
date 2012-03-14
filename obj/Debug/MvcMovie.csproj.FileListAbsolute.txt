@@ -1,5 +1,5 @@
 // =====COPYRIGHT=====
-// 4
+// ---- 2012  2012
 // =====COPYRIGHT=====
 D:\Project\MVC\MvcMovie\bin\MvcMovie.dll
 D:\Project\MVC\MvcMovie\bin\MvcMovie.pdb

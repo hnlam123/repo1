@@ -1,5 +1,5 @@
 // =====COPYRIGHT=====
-// 4
+// ---- 2012  2012
 // =====COPYRIGHT=====
 // Name:        MicrosoftAjax.debug.js
 // Assembly:    System.Web.Extensions

@@ -1,5 +1,5 @@
 // =====COPYRIGHT=====
-// 4
+// ---- 2012  2012
 // =====COPYRIGHT=====
 /*
  * This file has been commented to support Visual Studio Intellisense.
