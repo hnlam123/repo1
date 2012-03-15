@@ -1,5 +1,5 @@
 // =====COPYRIGHT=====
-// wwwwwwwwwwwwwwwwwwww
+// G
 // =====COPYRIGHT=====
 using System;
 using System.Collections.Generic;
